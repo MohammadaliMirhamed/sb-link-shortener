@@ -6,4 +6,6 @@
 !/logs/README.md
 .phpunit.result.cache
 /docker/mysql/*
+!/docker/mysql/README.md
 /docker/redis/*
+!/docker/redis/README.md
